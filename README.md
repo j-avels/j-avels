@@ -7,7 +7,7 @@ Professional with over 10 years of experience in QA, Software Test Engineering, 
 Currently working with Test Automation with Tosca. 
 Always learning, sharing, and evolving.
 
-🌐 Social: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avelinojs/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avelinojs/)
 
 <!--
 [![Site](https://img.shields.io/badge/-Portfólio-black?logo=vercel)](https://SEUSITE.com)
