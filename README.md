@@ -1,7 +1,7 @@
 <!-- Banner -->
 <img width="100%" src="https://media.licdn.com/dms/image/v2/D4D16AQFjylaZqUWNFg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730205447188?e=1756944000&v=beta&t=alzonQJ5bGT1m2cwztCYMrmDlgpwdSY2rjOUU11l0bA" alt="Banner com nome e tema" />
 
-Hey there 👋  
+Hey there 👋 I'm J.Avelino, 
 Professional with over 10 years of experience in QA, Software Test Engineering, working in large national and international companies across various sectors such as agriculture, mining, energy, and telecommunications.
 
 Currently working with Test Automation with Tosca. 
